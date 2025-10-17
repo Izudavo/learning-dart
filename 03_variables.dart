@@ -1,5 +1,7 @@
 // ignore_for_file: unused_local_variable
 
+// Knowing Data Types Variables
+
 void main() {
   // Numbers : int
 
@@ -10,7 +12,7 @@ void main() {
 
   // Numbers : double
 
-  double percentage = 40.5;
+  double percentage = 40.5; // used for decimals
   var percent = 80.555888;
   double exponents = 1.78e7;
 
