@@ -54,7 +54,7 @@ void main() {
   print("The number of characters is ${firstName.length}");
   // curly brackets {} used cause of more than 1 identifier
 
-  // For integers in length and breath (l and b)
+  // For integers in length and breadth (l and b)
 
   int l = 40;
   int b = 30;
